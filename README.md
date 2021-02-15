@@ -2,6 +2,8 @@
 
 A TypeScript library for handling civil dates and times.
 
+[Documentation](https://mixedCase.github.io/civil-ts/docs)
+
 ## Why
 
 Because representing timezone-independent calendar dates and wall clock time is a different problem than the one solved by the native `Date` object or popular libraries like `Luxon` or `day.js` which represent _absolute points in time_, and thus, it deserves its own separate type and operations.
