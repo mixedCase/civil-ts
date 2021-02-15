@@ -2,7 +2,6 @@
 /node_modules
 /build
 /dist
-/docs
 
 # .gitignore for Yarn 2 without Zero-Installs
 # and without editor SDKs
