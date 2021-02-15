@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "build",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "target": "ES2020",
+    "lib": ["ES2017"],
+    "strict": true,
+    "noEmit": true
+  },
+  "include": ["./src/**/*"],
+  "typedocOptions": {
+    "entryPoints": ["src/index.ts"],
+    "out": "docs"
+  }
+}
