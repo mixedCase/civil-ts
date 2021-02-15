@@ -2,7 +2,7 @@
 
 A TypeScript library for handling civil dates and times.
 
-[Documentation](https://mixedCase.github.io/civil-ts/docs)
+[Documentation](https://mixedCase.github.io/civil-ts)
 
 ## Why
 
